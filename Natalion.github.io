@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
     <head>
-        <title>Project: Ulubione ziwrzątko</title>
+        <title>Project: Ulubione zwierzak </title>
         <meta charset="utf-8">
         <style>
                 
